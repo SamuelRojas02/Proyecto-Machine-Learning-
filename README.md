@@ -30,5 +30,3 @@ Evaluación comparativa de múltiples algoritmos de machine learning sobre tres 
 | Mushroom | Clasificación | Random Forest | 99.68% accuracy |
 | Abalone | Regresión | SVR | R² = 0.454, MAE = 1.293 |
 | Gas Turbine | Clustering | K-Means | Regímenes operativos identificados |
-
-## Estructura del repositorio
